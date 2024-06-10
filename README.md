@@ -1,5 +1,7 @@
 # Twitter-database
 
-Database that simulate the scheme for twitter profiles and tweets information.
+This is a project for the SQL course on the Satr platform.
 
-The code written in mySQL, and the diagram is provided.
+The project involves creating a database that simulates the schema for Twitter profiles and tweet information.
+
+The code is written in MySQL, and the diagram is provided.
